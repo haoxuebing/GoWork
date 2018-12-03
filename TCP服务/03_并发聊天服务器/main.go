@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 	"strings"
-	"time"
+	// "time"
 )
 
 type Client struct {
@@ -51,7 +51,7 @@ func HandleConn(conn net.Conn) {
 	cli := Client{make(chan string), cliAddr, cliAddr}
 	onlineMap[cliAddr] = cli
 
-	//新开一个协发消息
+	//新开一个协程发消息
 	go WriteMsgToClient(cli, conn)
 
 	//广播某个在线
@@ -59,7 +59,7 @@ func HandleConn(conn net.Conn) {
 	messgae <- MakeMsg(cli, "login")
 
 	//提示我是谁
-	cli.C <- MakeMsg(cli, "I am here")
+	cli.C <- MakeMsg(cli, "I am here") //
 
 	isQuit := make(chan bool)  //用户主动退出
 	hasData := make(chan bool) //是否有数据发送
@@ -109,15 +109,15 @@ func HandleConn(conn net.Conn) {
 			return
 		case <-hasData:
 
-		case <-time.After(60 * time.Second): //60s后超时处理
-			delete(onlineMap, cliAddr)
-			messgae <- MakeMsg(cli, "time out leave out")
+			// case <-time.After(60 * time.Second): //60s后超时处理
+			// 	delete(onlineMap, cliAddr)
+			// 	messgae <- MakeMsg(cli, "time out leave out")
 		}
 	}
 }
 
 func MakeMsg(cli Client, msg string) string {
-	buf := "[" + cli.Addr + "]" + cli.Name + ": login"
+	buf := "[" + cli.Addr + "]" + cli.Name + ": " + strings.Replace(msg, "\n", "", -1)
 	return buf
 }
 
