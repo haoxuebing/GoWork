@@ -15,10 +15,16 @@ func ChangeArr(arr [5]int) {
 	arr[0] = 6
 }
 
+func ChangeArr2(arr *[5]int) {
+	arr[0] = 6
+}
+
 func main() {
 	a := [5]int{1, 2, 3, 4, 5}
 	PrintArr(a)
 	ChangeArr(a)
+	PrintArr(a)
+	ChangeArr2(&a)
 	PrintArr(a)
 }
 
