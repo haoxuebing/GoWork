@@ -21,6 +21,7 @@ func main() {
 	//延迟
 	time.Sleep(2 * time.Second)
 
+	//每3个子协程 sleep 2秒
 	for i := 0; i < 10; i++ {
 		num := <-ch
 		fmt.Println("num=", num)
