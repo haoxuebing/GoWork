@@ -1,18 +1,12 @@
 package main
 
 import (
-	// "encoding/json"
 	"fmt"
-	"github.com/PuerkitoBio/goquery"
-	// "github.com/garyburd/redigo/redis"
-	// "log"
-	// "math/rand"
 	"net/http"
-	// "net/url"
 	"os"
-	// "strconv"
 	"strings"
-	// "time"
+
+	"github.com/PuerkitoBio/goquery"
 )
 
 func main() {
@@ -20,14 +14,14 @@ func main() {
 }
 
 func getPage() {
-	boss := "https://www.zhipin.com/job_detail/?query=golang&scity=101010100&industry=&position="
+	boss := "https://www.zhipin.com/job_detail/?query=node.js&scity=101010100&industry=&position="
 	req, _ := http.NewRequest("GET", boss, nil)
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0")
 	cli := &http.Client{}
 	res, _ := cli.Do(req)
 
 	dom, _ := goquery.NewDocumentFromResponse(res)
-	f, _ := os.OpenFile("1.txt", os.O_RDWR|os.O_CREATE, 0)
+	f, _ := os.OpenFile("node.txt", os.O_RDWR|os.O_CREATE, 0)
 
 	defer f.Close()
 	dom.Find(".job-list ul li").Each(func(i int, ctx *goquery.Selection) {
@@ -53,7 +47,7 @@ func getPage() {
 
 		fmt.Println(title + ":" + company + ":" + salery + ":" + experience + ":职位描述：" + jd)
 
-		f.WriteString(title + ":" + company + ":" + salery + ":" + experience + "\n职位描述：" + jd + "\n")
+		f.WriteString(title + ":" + company + ":" + salery + ":" + experience + "\n") //"\n职位描述：" + jd +
 
 	})
 
