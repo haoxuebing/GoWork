@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1ca871a-9adb-44f9-90fe-2bece7da16b6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/StudyGo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/t3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebServer/03Cookie/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebServer/03Cookie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firego/_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gointro/pipeline/nodes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gointro/piplinedome/mian.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gointro/piplinedome/small.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gorm/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goroutine/斐波那契/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goroutine/获取素数/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/接口/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/面向对象/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array&amp;Slice/Array/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Array&amp;Slice/Array/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array&amp;Slice/Array/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Array&amp;Slice/Array/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array&amp;Slice/Slice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Array&amp;Slice/Slice/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array&amp;Slice/切片和函数/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Array&amp;Slice/切片和函数/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array&amp;Slice/数组和函数/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Array&amp;Slice/数组和函数/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/AnyType/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Base/AnyType/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hellowrold/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/Hellowrold/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/interface1/file.go" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/interface1/file.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/interface1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/interface1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mysql/01_增删改查/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Mysql/01_增删改查/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mysql/02_简化/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Mysql/02_简化/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pointer/&amp;pointer/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pointer/Array/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Pointer/Array/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pointer/Pointer2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Pointer/Pointer2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pointer/func/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Pointer/func/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pointer/地址与指针/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Pointer/地址与指针/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/冒泡排序/SortFun/Bubb.go" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/冒泡排序/SortFun/Bubb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/冒泡排序/SortFun/QSort.go" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/冒泡排序/SortFun/QSort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/冒泡排序/SortFun/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/冒泡排序/SortFun/sort_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/冒泡排序/mainBB/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/冒泡排序/mainBB/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP服务/01_client/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP服务/01_client/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP服务/01_server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP服务/01_server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP服务/02_recvFile/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP服务/02_recvFile/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP服务/02_sendFile/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP服务/02_sendFile/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP服务/03_并发聊天客户端/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP服务/03_并发聊天客户端/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP服务/03_并发聊天服务器/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP服务/03_并发聊天服务器/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/t1/t2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Test/t1/t2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/t1/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Test/t1/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/t2/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/Test/t2/mian.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Timer/Ticker的使用/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Timer/Ticker的使用/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Timer/Timer停止和重置/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Timer/Timer停止和重置/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Timer/Timer的使用/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Timer/Timer的使用/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/01httpForm/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/01httpForm/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/02httpDb/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/02httpDb/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/calculation/calc/calc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation/simplemath/add.go" beforeDir="false" afterPath="$PROJECT_DIR$/calculation/simplemath/add.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation/simplemath/add_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/calculation/simplemath/add_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation/simplemath/sqrt.go" beforeDir="false" afterPath="$PROJECT_DIR$/calculation/simplemath/sqrt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation/simplemath/sqrt_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/calculation/simplemath/sqrt_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/channel_关闭/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/channel_关闭/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/channel_单向/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/channel_单向/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/channel_无缓存/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/channel_无缓存/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/channel_有缓存/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/channel_有缓存/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/go_chan/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/go_chan/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/通过channel实现同步/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/通过channel实现同步/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel/通过channel实现同步和数据交互/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel/通过channel实现同步和数据交互/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claw/00_test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/claw/00_test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claw/01_西刺/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/claw/01_西刺/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claw/boss爬虫/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/claw/boss爬虫/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/GOMAXPROCS/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/GOMAXPROCS/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/Go6/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/Go6/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/Goexit/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/Goexit/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/Gosched/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/Gosched/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/go1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/go1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/go2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/go2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/go3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/go3/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/go4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/go4/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/go5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/go5/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutine/多任务资源竞争/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutine/多任务资源竞争/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/01_http请求包格式/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/01_http请求包格式/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/02_测试服务器/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/02_测试服务器/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/03_爬虫/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/03_爬虫/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/04_百度贴吧爬虫/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/04_百度贴吧爬虫/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/05_段子爬虫/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/05_段子爬虫/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/06_爬虫优化/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/06_爬虫优化/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/interface2/Inter.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface/interface2/Inter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/interface2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface/interface2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/接口的定义和实现/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface/接口的定义和实现/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/map对象/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/map/map对象/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/函数和map/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/map/函数和map/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/为结构体添加方法/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/为结构体添加方法/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/值语义和引用语义/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/值语义和引用语义/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/封装/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/封装/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/指针变量的方法集/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/指针变量的方法集/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/继承/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/继承/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select/select_斐波那契/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/select/select_斐波那契/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select/select_超时/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/select/select_超时/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/广度优先算法/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/广度优先算法/mian.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firego/_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gorm/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Program Files\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/firego/main.go" />
+        <option value="$PROJECT_DIR$/firego/test.go" />
+        <option value="$PROJECT_DIR$/firego/_test.go" />
+        <option value="$PROJECT_DIR$/gorm/model/model.go" />
+        <option value="$PROJECT_DIR$/gorm/model/user.go" />
+        <option value="$PROJECT_DIR$/gorm/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StudyGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGo" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGo" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="接口的定义和实现" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="StudyGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gorm/main.go" />
+      <package value="StudyGo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31568018" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firego/test.go" />
+    <entry file="file://$PROJECT_DIR$/Test/t1/test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/t1/t2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.go" />
+    <entry file="file://$PROJECT_DIR$/gorm/model/model.go" />
+    <entry file="file://$PROJECT_DIR$/gorm/model/user_role.go" />
+    <entry file="file://$PROJECT_DIR$/gorm/model/user.go" />
+    <entry file="file://$PROJECT_DIR$/firego/_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/接口的定义和实现/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gorm/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

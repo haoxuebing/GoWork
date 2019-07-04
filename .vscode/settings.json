@@ -1,5 +1,6 @@
 {
     "editor.fontSize": 14,
     "editor.formatOnSave": true,
-    "go.formatTool": "goreturns"
+    "go.formatTool": "goreturns",
+    "go.vetOnSave": "package"
 }
